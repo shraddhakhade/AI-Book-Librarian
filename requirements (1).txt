@@ -1,0 +1,15 @@
+pandas
+seaborn
+kagglehub
+python-dotenv
+openai
+langchain-huggingface
+langchain-community
+langchain-openai
+langchain-chroma
+transformers
+gradio>=6.0.0
+jupyterlab
+notebook
+ipywidgets
+sentence-transformers
